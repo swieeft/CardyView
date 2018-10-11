@@ -164,3 +164,10 @@ class CardyViewCell: UITableViewCell {
 
 * **결과화면**
 <img src="images/Demo.gif" width="300"/>
+
+## 4. 설치방법
+준비중입니다...
+
+
+## 5. 라이센스 
+CardyView는 MIT 라이센스를 사용합니다.
